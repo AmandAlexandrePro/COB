@@ -1,0 +1,55 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"origin" "-56.0 48.0 -16.0"
+"model" "_prefabs/arsenol/arsenol1.map"
+"classname" "misc_prefab"
+}
+// entity 2
+{
+"origin" "56.0 48.0 -16.0"
+"model" "_prefabs/arsenol/arsenol2.map"
+"classname" "misc_prefab"
+}
+// entity 3
+{
+"origin" "-56.0 16.0 -16.0"
+"model" "_prefabs/arsenol/arsenol1.map"
+"classname" "misc_prefab"
+}
+// entity 4
+{
+"origin" "56.0 16.0 -16.0"
+"model" "_prefabs/arsenol/arsenol2.map"
+"classname" "misc_prefab"
+}
+// entity 5
+{
+"origin" "-56.0 -16.0 -16.0"
+"model" "_prefabs/arsenol/arsenol1.map"
+"classname" "misc_prefab"
+}
+// entity 6
+{
+"origin" "56.0 -16.0 -16.0"
+"model" "_prefabs/arsenol/arsenol2.map"
+"classname" "misc_prefab"
+}
+// entity 7
+{
+"origin" "-56.0 -48.0 -16.0"
+"model" "_prefabs/arsenol/arsenol1.map"
+"classname" "misc_prefab"
+}
+// entity 8
+{
+"origin" "56.0 -48.0 -16.0"
+"model" "_prefabs/arsenol/arsenol2.map"
+"classname" "misc_prefab"
+}

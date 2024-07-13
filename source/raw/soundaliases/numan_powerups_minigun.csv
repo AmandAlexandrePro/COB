@@ -1,0 +1,14 @@
+name,platform,file,sequence,vol_min,vol_max,dist_min,dist_max,limit_count,limit_type,entity_limit_count,entity_limit_type,bus,volume_min_falloff_curve,volumefalloffcurve,reverb_send,dist_reverb_max,reverb_min_falloff_curve,reverb_falloff_curve,pitch_min,pitch_max,randomize_type,spatialized,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,chainaliasname,startdelay,speakermap,lfe percentage,center percentage,envelop_min,envelop_max,envelop percentage,occlusion_level,occlusion_wet_dry,real_delay,distance_lpf,move_type,move_time,min_priority,max_priority,min_priority_threshold,max_priority_threshold,doppler,isbig
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Minigun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+wpn_minigun_fire_loop_plr,,wpn\lmg\minigun\dmachine\plr\loop\loop_l.wav,,1,1,,,1,reject,1,reject,hvy_wpn,,,,,,,,,,2d,streamed,,looping,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_fire_loop_ring_plr,,wpn\lmg\minigun\dmachine\plr\wpn_minigun_ring_plr.wav,,0.95,0.95,,,2,oldest,2,oldest,hvy_wpn,,,,,,,,,,2d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_start_plr,,wpn\lmg\minigun\dmachine\plr\wpn_minigun_start_plr.wav,,0.95,0.95,,,1,reject,1,reject,hvy_wpn,,,,,,,,,,2d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_loop_plr,,wpn\lmg\minigun\dmachine\plr\wpn_minigun_loop_plr_l.wav,,0.94,0.94,,,4,oldest,4,oldest,hvy_wpn,,,,,,,,,,3d,streamed,,looping,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_stop_plr,,wpn\lmg\minigun\dmachine\plr\wpn_minigun_stop_plr.wav,,0.95,0.95,,,1,reject,1,reject,hvy_wpn,,,,,,,,,,2d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+#Foley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+wpn_minigun_pickup_plr,,FLY\pickups\weapon\pickup_00.wav,,,,,,,,,,,,,,,,,,,,2d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_raise_plr,,wpn\lmg\minigun\foley\fly_minigun_up.wav,,,,,,,,,,,,,,,,,,,,2d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_pickup,,FLY\pickups\weapon\pickup_00.wav,,1,1,,,4,oldest,4,oldest,hvy_wpn,,,,,,,,,,3d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes
+wpn_minigun_raise,,wpn\lmg\minigun\foley\fly_minigun_up.wav,,1,1,,,4,oldest,4,oldest,hvy_wpn,,,,,,,,,,3d,streamed,,,,all_sp,,,,,,wpn_all,,,,,,,,,,,,,,,,,yes

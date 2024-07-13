@@ -1,0 +1,46 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"zombie_cheat" "0"
+"targetname" "use_power_switch"
+"classname" "trigger_use"
+// brush 0
+{
+ ( -1046 473 51.5 ) ( -1078 473 51.5 ) ( -1078 449 51.5 ) trigger 32 -24 1109.9819 569.08752 -180 0 lightmap_gray 16384 16384.039 1073.9818 649.08746 -180 0
+ ( -1078 473 85.5 ) ( -1046 473 85.5 ) ( -1046 449 85.5 ) trigger 32 -24 1109.9819 569.08752 -180 0 lightmap_gray 16384 16384 1073.9818 649.08661 -180 0
+ ( -1042 473 75.5 ) ( -1050 473 75.5 ) ( -1050 473 51.5 ) trigger 32 -34 1109.9819 -16.522509 180 0 lightmap_gray 16384 -16384 1073.9822 -12.52276 180 0
+ ( -1078 473 51.5 ) ( -1078 473 85.5 ) ( -1078 449 85.5 ) trigger 24 -34 -569.08862 -16.522182 180 0 lightmap_gray 16383.971 -16384 -649.08722 -12.521997 180 0
+ ( -1050 449 75.5 ) ( -1042 449 75.5 ) ( -1042 449 51.5 ) trigger 32 -34 1109.9871 -16.521683 180 0 lightmap_gray 16383.924 -16384 1073.9819 -12.52184 180 0
+ ( -1046 473 85.5 ) ( -1046 473 51.5 ) ( -1046 449 51.5 ) trigger 24 -34 -569.08759 -16.521847 180 0 lightmap_gray 16383.963 -16384 -649.08698 -12.522034 180 0
+}
+}
+// entity 2
+{
+"zombie_cheat" "0"
+"angles" "0 180 90"
+"targetname" "power_switch"
+"origin" "-1062.0 453.2 66.1"
+"model" "zombie_power_lever_handle"
+"classname" "script_model"
+}
+// entity 3
+{
+"zombie_cheat" "0"
+"targetname" "power_switch_fx"
+"origin" "-1062.0 456.0 64.0"
+"classname" "script_struct"
+}
+// entity 4
+{
+"zombie_cheat" "0"
+"origin" "-1062.4 445.5 19.5"
+"angles" "0 180 0"
+"model" "zombie_power_lever_short"
+"classname" "script_model"
+}
