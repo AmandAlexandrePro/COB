@@ -6,10 +6,10 @@
             <li>Ajout de plusieurs fichiers :
                 <ul>
                     <li>
-                        <a href="./Native">Native</a>
+                        <a href="./assets">assets</a>
                     </li>
                     <li>
-                        <a href="./Web">Web</a>
+                        <a href="./source">source</a>
                     </li>
                     <li>
                         <a href="./CHANGELOG.md">CHANGELOG.md</a>
@@ -24,5 +24,5 @@
             </li>
         </ul>
     </div>
-    <h1 id="changelog-old">Pour consulter les modifications antérieures, veuillez vous référer aux <a id="changelog-old-link" href="https://github.com/AmandAlexandrePro/Light-Bridge/releases">versions GitHub</a>.</h1>
+    <h1 id="changelog-old">Pour consulter les modifications antérieures, veuillez vous référer aux <a id="changelog-old-link" href="https://github.com/AmandAlexandrePro/COB/releases">versions GitHub</a>.</h1>
 </div>
