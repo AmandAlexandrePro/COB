@@ -1,13 +1,11 @@
 <a name="top"></a>
 <a name="readme-head"><div id="readme-head" align="center">
     <h1 id="readme-title">Construction de C.O.B.</h1>
+    <h3 id="readme-warning">⚠️ Avant toute opération, veuillez vous assurer d'avoir les <a href="../README.md#readme-body-requirements">Prérequis</a> de <code>C.O.B.</code> ⚠️</h3>
 </div></a>
 <a name="readme-body"><div id="readme-body">
     <ol>
-<li>Installation de la <strong>dernière</strong> version de <a href="https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War">Call Of Duty World At War (<code>COD WAW</code>)</a> sans préférence de langage.</li>
-<li>Installation à la <strong>racine</strong> de <code>COD WAW</code>, la <strong>Librairie Dynamique</strong> (<code>DLL</code>) <a href="https://github.com/JBShady/T4M-Enhanced">T4M<sub>enhanced</sub></a> permettant l'ajout de nouvelle fonctionnalité et la correction de nombreux bugs en améliorant les limitations de <em>COD WAW</em>.</li>
-<li>Remplacement de l'<strong>exécutable</strong> <code>CoDWaW.exe</code> se trouvant à la <strong>racine</strong> de <code>COD WAW</code> par <a href="http://bit.ly/1nqdKEF">LanFixed.exe</a> corrigeant les bugs de <em>connexion</em> en <strong>Reseau Locale</strong> (<em>LAN</em>) de <em>COD WAW</em>.</li>
-<li>Installation du <a href="https://wiki.ugx-mods.com/Modding/World-at-War-Modtools/Resources-and-Links/Modtools-Installation-Guide">Mod Tools</a> à la <strong>racine</strong> de <code>COD WAW</code>.
+<li>Installation du <a href="https://wiki.ugx-mods.com/Modding/World-at-War-Modtools/Resources-and-Links/Modtools-Installation-Guide">Mod Tools</a> à la <strong>racine</strong> de <code>COD WAW</code><a href="https://github.com/tonikelope/megabasterd">.</a>
 <ul>
 <li>Veuillez <strong>Supprimer</strong> les <strong>dossiers</strong> <code>HumorModTWO</code>, <code>mp_HumorModTWO</code>, <code>mp_usermaps</code> et <code>usermaps</code> dans le <em>dossier</em> <code>mods</code> se trouvant à la <strong>racine</strong> de <code>COD WAW</code>.</li>
 </ul>
@@ -32,13 +30,7 @@
 <li>Comme pour la <strong>Compilation</strong> des <code>Réflections de Lumière</code>, la  <code>console</code> deviens <strong>Jaune</strong>.</li>
 </ul>
 </li>
-<li>Une fois que la <code>console</code> redeviens <strong>Blanche</strong>, Lancer <code>Call Of Duty World At War</code> avec l'exécutable <code>LanFixed.exe</code> se trouvant à la <strong>racine</strong> de <code>COD WAW</code>.</li>
-<li>Dans le <strong>Menu Principale</strong>, Sélectionner l'<strong>Option</strong> <code>Mods</code>, Sélectionner <code>COB</code> et Cliquer sur <code>Lancer</code>.
-<ul>
-<li>Si tout ce passe bien, vous devriez voir un menu avec un fond noir avec en haut un texte ayant comme valeur <code>COB</code>.</li>
-<li>Pour lancer une partie, vous pouvez soit cliquer sur <code>Tout Seul</code> pour jouer en <strong>Solo</strong> ou soit en <strong>Multijoueur</strong> en cliquant sur <code>En Équipe</code> (<strong>NON TESTÉ</strong>).</li>
-</ul>
-</li>
+<li>Une fois que la <code>console</code> redeviens <strong>Blanche</strong>, veuillez vous référer à l'étape 3 et à celles suivantes de la Catégorie <a href="../README.md#readme-body-setup-launch"><code>Installation</code></a>.</li>
 </ol>
 </div></a>
 <a name="readme-footer"><p id="readme-footer" align="center">CL 2024 <a id="readme-footer-repo" href="https://github.com/AmandAlexandrePro/COB">COB</a><br>&lt;/&gt; et 🖼 avec ❤ par <a id="readme-footer-author" href="https://github.com/AmandAlexandrePro">AMAND Alexandre</a> et les <a id="readme-footer-contributors" href="https://github.com/AmandAlexandrePro/COB/graphs/contributors">contributeurs</a>.</p></a>
